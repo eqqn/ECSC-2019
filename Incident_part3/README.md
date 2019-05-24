@@ -1,3 +1,5 @@
+## Requires golang
+
 To run the files, simply do 
 
 `go test -run TestEncryptDecrypt` 
